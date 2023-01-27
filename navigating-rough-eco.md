@@ -1,0 +1,21 @@
+# Navigating Rough Economic Waters: How to Optimize Workflows and Increase Efficiency in the Tech Industry
+
+It is no secret that Europe is going through more challenging economic times, with reports of IMF warning that "Half of the European Union and one-third of the world face recession in 2023" ([Euronews](https://www.euronews.com/next/2023/01/02/half-of-the-european-union-and-one-third-of-the-world-face-recession-in-2023-imf-warns1)).
+
+Focusing more on Finland, recent consumer confidence is reported to be low ([source](source)). Consumers will move to a more bearish behaviour with their money. Given this information, it is not surprising that executives are crunching numbers on improving their financials, and we, as strategic thinkers in technology, are working our minds on finding more efficient ways of working.
+
+A wealth of research is available on optimising workflows in the tech industry. However, your organisation's specific optimisation steps will depend on your current processes and practices. An excellent place to start is by evaluating whether your teams are already following a DevOps methodology.
+
+**Side Note:** *I apologise if my perspective on this issue seems overly simplistic; the fact is that if your tech organisation's DevOps structure falls into an anti-pattern, then you do not fully realise the benefits of a DevOps approach. It's essential to carefully consider the structure and practices of your organisation to maximise the impact of your DevOps efforts.*
+
+If your teams aren't following a DevOps methodology, it's worth considering the benefits it could bring to your organisation. Properly implemented, DevOps can significantly increase productivity and quality, save money, and provide a foundation for other process improvements.
+
+If your organisation is already following DevOps methodologies, the next logical step is to assess whether your separate stream-aligned teams are duplicating efforts. This is an area where many companies, particularly those in Finland, struggle to provide a clear answer. In these cases, there is often room for optimisation by establishing a dedicated Platform Team or clarifying existing teams' scope and mission. Remember, a key part of the DevOps approach is to eliminate silos and foster collaboration – if your stream-aligned teams are unaware that they are duplicating work, it's time to re-evaluate and streamline your processes.
+
+**Side Note:** *Stream-aligned teams, are teams that deliver features to the customer. A side-effect of a stream-aligned team using DevOps methodologies is that they must deliver features and build/maintain their teams' automation processes.*
+
+Why can platform teams help stream-aligned teams, and how? 
+
+One way that stream-aligned teams may seek to increase efficiency is by building internal tools that are specific to their team. While this may seem logical, it can create problems in larger organisations. If every team is focused on building and maintaining their own tools rather than driving forward with new features, it's only natural that overall output will suffer. That's where Platform Teams come in. These teams are responsible for providing stream-aligned teams with the tools and infrastructure they need to implement continuous delivery, and deployment practices, streamlining the software development process and helping teams deliver high-quality products faster and more reliably. In other words, rather than having multiple teams diverting valuable time and resources to building their own platforms, a dedicated Platform Team can handle this work, freeing up stream-aligned teams to focus on what they do best: developing new features and responding to customer needs.
+
+In summary, every organisation constantly seeks ways to increase efficiency in today's social-economical business environment. One area to examine in tech organisations is the adoption of DevOps methodologies. If your teams aren't already following these practices, it's worth considering making the switch. And if you are already utilising DevOps, consider whether your stream-aligned teams are doing platform work. If so, consider the value that a dedicated Platform Team could bring to your organisation.
